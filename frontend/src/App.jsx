@@ -31,3 +31,5 @@ function App() {
 }
 
 export default App;
+
+// VITE_API_URL=http://localhost:8000
