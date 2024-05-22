@@ -18,8 +18,8 @@ function Home() {
 
   return (
     <main className="container">
-      <h1 className="heading">Explore</h1>
-      <p className="sub_heading">List of anime to watch</p>
+      <h1 className="heading">Explorer</h1>
+      <p className="sub_heading">List of anime to watch here</p>
 
       <ul className="anim_list">
         {anime.length > 0 &&
