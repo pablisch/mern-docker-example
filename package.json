@@ -1,0 +1,12 @@
+{
+  "name": "mern-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docker": "docker compose up --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
